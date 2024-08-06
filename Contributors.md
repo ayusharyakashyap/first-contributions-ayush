@@ -11,7 +11,7 @@
 - [Caleb Anderson](https://github.com/Canderson0115) **Amogus**
 - [Vaibhav Gangurde](https://github.com/Vaibhavsg17) **Thrilled to make my first contribution to open source!**
 - [Miguel Arturo Madrigal Escoto](https://github.com/Miguel-Arturo-Madrigal-Escoto) **This is my first open source contribution**
-- [Ayush Arya Kashyap] (https://github.com/ayusharyakashyap) **hola amigo, kaise ho theek ho**
+- [Ayush Arya Kashyap] (https://github.com/ayusharyakashyap) **hola amigo, kaise ho theek ho!!**
 - [Krupal Shah](https://github.com/krupal-shah) **Trying out OpenSource contributions and am very excited about it!!!**
 - [Shoaib Sadiq Salehmohamed](https://github.com/shoaib2000857) **Persuing Data Science From IIT Madras Thrilled to make my first contribution to open source!**
 - [Samantha Adams](https://github.com/honeydewdrop) **Did personal project, now first contribution. Yippee!**
